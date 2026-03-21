@@ -1,0 +1,9 @@
+{
+  "frontend_dirs": [
+    "src/api/asset",
+    "src/views/asset"
+  ],
+  "backend_modules": [
+    "yudao-module-asset"
+  ]
+}
